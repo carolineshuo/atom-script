@@ -1,0 +1,17 @@
+//////////////
+//// CSE 02 Assignment1
+///1.27.2020
+///author Ren Shuo
+public class Assignment1 {
+  
+  public static void main(String[] args) {
+    ///prints trees to terminal window
+    System.out.print("   /#\\       /#\\        /#\\ \n");
+    System.out.print("  /#|#\\     /#|#\\      /#|#\\ \n");
+    System.out.print(" /##|##\\   /##|##\\    /##|##\\ \n");
+    System.out.print("/###|###\\ /###|###\\  /###|###\\ \n");
+    System.out.print("    |         |          | \n");
+    System.out.print("    |         |          | \n");
+                       
+  }
+}
